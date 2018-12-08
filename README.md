@@ -1,7 +1,8 @@
 # ifConnected
 
 ifConnectedで低電力モードをコントロール!
-(ダウンロードリンクはこちら)
+
+(ダウンロードリンクは[こちら](https://repo.packix.com/package/jp.soh.ifconnected/))
 
 
 ## 設定
